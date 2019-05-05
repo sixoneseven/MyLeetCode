@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/4/29 16:20:09。
+     1>项目“C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013_install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\LeetCode.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt LeetCode.cpp
+         LeetCode.cpp
+     1>c:\users\sinian\documents\visual studio 2013\projects\treetest\leetcode\leetcode.cpp(563): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+       Link:
+         D:\VS2013_install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\Debug\LeetCode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\Debug\LeetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\Debug\LeetCode.lib" /MACHINE:X86 Debug\LeetCode.obj
+         Debug\stdafx.obj
+         LeetCode.vcxproj -> C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\Debug\LeetCode.exe
+     1>已完成生成项目“C:\Users\SiNian\Documents\Visual Studio 2013\Projects\TreeTest\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
